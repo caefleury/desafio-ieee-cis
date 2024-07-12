@@ -27,7 +27,7 @@ Nesse trabalho foram utilizados ferramentas e bibliotecas:
 - [x] 4
 - [x] 5
 - [x] 6
-- [ ] 7
+- [x] 7
 - [ ] 8
 - [ ] 9
 - [ ] 10
